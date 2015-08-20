@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'domainr/cli'
+
+Domainr::CLI::Commands.start(ARGV)

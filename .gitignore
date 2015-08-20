@@ -1,0 +1,14 @@
+coverage
+rdoc
+doc
+log
+pkg/*
+tmp
+.rvmrc
+.rbenv*
+
+Gemfile.lock
+
+*.gem
+.bundle
+
